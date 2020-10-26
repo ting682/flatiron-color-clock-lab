@@ -1,0 +1,23 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "color clock",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo 'Hello World!'\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ting682/flatiron-color-clock-lab.git"
+  },
+  "keywords": [
+    "color",
+    "clock"
+  ],
+  "author": "Ting Chung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ting682/flatiron-color-clock-lab/issues"
+  },
+  "homepage": "https://github.com/ting682/flatiron-color-clock-lab#readme"
+}
